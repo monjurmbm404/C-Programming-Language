@@ -1,79 +1,89 @@
-# 📘 C Programming Language – Complete Learning Repository
+# 💻 C++ Programming Language
 
-C is one of the most powerful and foundational programming languages ever created. It provides low-level control, efficient memory management, and a deep understanding of how computers actually work. Learning C helps you build a strong base for mastering advanced languages, data structures, algorithms, operating systems, embedded systems, and more.
+Welcome to the **C++ Programming Language Learning Repository**! This project is designed to guide beginners and intermediate learners through C++ programming concepts, from basics to advanced topics, in a structured, day-by-day manner.
 
-This repository is designed as a **day-by-day learning path**, starting from the absolute basics and gradually moving toward advanced topics. Each concept is explained in a structured, beginner-friendly way so that any learner can follow along without difficulty.
+Each folder represents a learning day or topic, containing example codes, explanations, and practice exercises.
 
 ---
 
 ## 📂 Repository Structure
 
-The project is organized into multiple folders, each representing a learning day or topic.
-Every folder contains:
-
-- A dedicated **`readme.md`** that explains the theory
-- Example programs
-- Input/output demonstrations
-- Practice problems (where applicable)
-
-This makes the repository easy to navigate and perfect for self-study.
+| Folder / File                        | Description                                                                                                                                                  |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `Day 01 Basic C++`                   | Fundamentals of C++: syntax, variables, operators, input/output, and simple programs.                                                                        |
+| `Day 02 Dynamic Memory Allocation`   | Learn about `new`, `delete`, pointers, and memory management in C++.                                                                                         |
+| `Day 03 Class and Object in C++`     | Introduction to classes, objects, constructors, member functions, and OOP basics.                                                                            |
+| `Day 04 Test 01`                     | Test your knowledge of the topics covered in Days 01–03.                                                                                                     |
+| `Day 05 String Class in C++`         | Learn the C++ `string` class, string operations, input/output, iterators, modifiers, and string streams.                                                     |
+| `Day 06 More about class and string` | Explore advanced class and string concepts, dynamic object copying, member functions, range-based for loops, reversing and sorting, and string constructors. |
+| `Day 07 Array of objects`            | Work with arrays of objects, find maximum and minimum values, and sort arrays of objects.                                                                    |
+| `Day 08 Test 02`                     | Test your knowledge of the topics covered in Days 05–07.                                                                                                     |
+| `Extra Practice`                     | Solve additional coding exercises to strengthen your understanding and problem-solving skills.                                                               |
 
 ---
 
 ## 🧠 What You Will Learn
 
-Throughout this repository, you will cover topics such as:
-
 ### 🔹 **Fundamentals**
 
-- Basic syntax
-- Variables and data types
-- Operators
-- Conditional statements
-- Loops
+- C++ syntax and structure
+- Variables, constants, and data types
+- Input/output using `cin` and `cout`
+- Operators: arithmetic, relational, logical
+- Conditional statements (`if`, `switch`)
+- Loops (`for`, `while`, `do-while`)
 
-### 🔹 **Arrays & Strings**
+### 🔹 **Pointers & Memory Management**
 
-- 1D and 2D arrays
-- Array operations
-- String operations
-- Frequency analysis
+- Pointer basics
+- Dynamic memory allocation using `new` and `delete`
+- Memory leaks and safe copying of objects
 
-### 🔹 **Functions**
+### 🔹 **Object-Oriented Programming (OOP)**
 
-- Function declaration and usage
-- Argument passing
-- Return values
-- Pointer-based functions
+- Classes and objects
+- Constructors and destructors
+- Member functions
+- Dynamic objects
+- Array of objects
+- Sorting objects based on attributes
 
-### 🔹 **Advanced Concepts**
+### 🔹 **String Handling**
 
-- Recursion
-- Nested loops and patterns
-- Pointer manipulation
-- Math functions
-- Matrix types and validation
+- Using the C++ `string` class
+- Accessing characters (`[]`, `.at()`, `.front()`, `.back()`)
+- String size, capacity, and resizing
+- Modifiers: `.append()`, `.erase()`, `.replace()`, `.insert()`
+- Iterators, range-based for loops
+- `stringstream` for word parsing
+- Sorting and reversing strings
+- Advanced string constructors
 
 ### 🔹 **Practice & Tests**
 
-Many days include:
-
-- **Practice sets**
-- **Coding exercises**
-- **Test days** to check progress
+- Coding exercises in each folder
+- Test days to assess progress
+- Extra practice for problem-solving
 
 ---
 
 ## 🎯 Goals of This Repository
 
-This project aims to:
+This project helps you:
 
-- Build a **solid foundation** in C programming
-- Help beginners understand concepts through **step-by-step explanations**
-- Provide **clean, easy-to-read code examples**
-- Offer a structured learning roadmap for consistent progress
+- Build a **solid foundation** in C++
+- Understand concepts step-by-step with **clear examples**
+- Learn **object-oriented programming and string manipulation**
+- Practice coding efficiently
+- Prepare for competitive programming, exams, or interviews
 
-Whether you're preparing for university courses, coding contests, or interviews, this repository will guide you through essential C programming knowledge.
+---
+
+## 📌 Notes
+
+- Each folder contains a `readme.md` for theory and example explanations
+- Code files are **well-commented** for better understanding
+- Recommended: Compile using **C++17 or later** for best compatibility
 
 ---
 
@@ -82,7 +92,6 @@ Whether you're preparing for university courses, coding contests, or interviews,
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
 
 # Author
 
