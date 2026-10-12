@@ -94,11 +94,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 🎓 **BSc in Computer Science & Engineering (CSE)** _(Ongoing)_ **at [Sylhet International University (SIU)](https://siu.edu.bd/)**
 
-📧 **Email:** monjurmbm404@gmail.com
-
 ---
 
-## ⭐ Support the Project
+## Support the Project
 
 If you found this repository helpful, please consider giving it a **⭐ Star**. It helps others discover the project and motivates future development.
 
@@ -107,16 +105,35 @@ If you found this repository helpful, please consider giving it a **⭐ Star**. 
 
 ## Connect with Me
 
+### Professional Profiles
+
 | Platform | Link |
 |:---|:---|
 | Portfolio | [monjurmbm404.github.io](https://monjurmbm404.github.io) |
-| GitHub | [github.com/monjurmbm404](https://github.com/monjurmbm404) |
-| LinkedIn | [linkedin.com/in/monjurmbm404](https://www.linkedin.com/in/monjurmbm404) |
-| Medium | [medium.com/@monjurmbm404](https://medium.com/@monjurmbm404) |
-| LeetCode | [leetcode.com/u/monjurmbm404](https://leetcode.com/u/monjurmbm404) |
-| Codeforces | [codeforces.com/profile/monjurmbm404](https://codeforces.com/profile/monjurmbm404) |
-| CodeChef | [codechef.com/users/monjurmbm404](https://www.codechef.com/users/monjurmbm404) |
-| VJudge | [vjudge.net/user/monjurmbm404](https://vjudge.net/user/monjurmbm404) |
-| Facebook | [facebook.com/monjurmbm404](https://www.facebook.com/monjurmbm404) |
-| X (Twitter) | [x.com/monjurmbm404](https://x.com/monjurmbm404) |
-| YouTube | [youtube.com/@monjurmbm404](https://youtube.com/@monjurmbm404) |
+| GitHub | [monjurmbm404](https://github.com/monjurmbm404) |
+| LinkedIn | [monjurmbm404](https://www.linkedin.com/in/monjurmbm404) |
+| Medium | [@monjurmbm404](https://medium.com/@monjurmbm404) |
+
+### Competitive Programming
+
+| Platform | Link |
+|:---|:---|
+| Codeforces | [monjurmbm404](https://codeforces.com/profile/monjurmbm404) |
+| CodeChef | [monjurmbm404](https://www.codechef.com/users/monjurmbm404) |
+| LeetCode | [monjurmbm404](https://leetcode.com/u/monjurmbm404) |
+| VJudge | [monjurmbm404](https://vjudge.net/user/monjurmbm404) |
+
+### Social Media
+
+| Platform | Link |
+|:---|:---|
+| Facebook | [monjurmbm404](https://www.facebook.com/monjurmbm404) |
+| X (Twitter) | [@monjurmbm404](https://x.com/monjurmbm404) |
+| YouTube | [@monjurmbm404](https://youtube.com/@monjurmbm404) |
+
+### Contact Information
+
+| Type | Email |
+|:---|:---|
+| Professional | [monjurmbm404@gmail.com](mailto:monjurmbm404@gmail.com) |
+| Personal | [md.monjurmbm2001@gmail.com](mailto:md.monjurmbm2001@gmail.com) |
