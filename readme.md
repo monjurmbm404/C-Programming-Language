@@ -104,17 +104,18 @@ If you found this repository helpful, please consider giving it a **⭐ Star**. 
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
-| Platform       | Link                                        |
-| -------------- | ------------------------------------------- |
-| 💻 GitHub      | https://github.com/monjurmbm404             |
-| 💼 LinkedIn    | https://linkedin.com/in/monjurmbm404        |
-| 🧩 LeetCode    | https://leetcode.com/u/monjurmbm404         |
-| ⚔️ Codeforces  | https://codeforces.com/profile/monjurmbm404 |
-| 🍽️ CodeChef    | https://www.codechef.com/users/monjurmbm404 |
-| 🏆 VJudge      | https://vjudge.net/user/monjurmbm404        |
-| 📘 Facebook    | https://www.facebook.com/monjurmbm404       |
-| 🐦 X (Twitter) | https://x.com/monjurmbm404                  |
-| ▶️ YouTube     | https://youtube.com/@monjurmbm404           |
-| ✍️ Medium      | https://medium.com/@monjurmbm404            |
+| Platform | Link |
+|:---|:---|
+| Portfolio | [monjurmbm404.github.io](https://monjurmbm404.github.io) |
+| GitHub | [github.com/monjurmbm404](https://github.com/monjurmbm404) |
+| LinkedIn | [linkedin.com/in/monjurmbm404](https://www.linkedin.com/in/monjurmbm404) |
+| Medium | [medium.com/@monjurmbm404](https://medium.com/@monjurmbm404) |
+| LeetCode | [leetcode.com/u/monjurmbm404](https://leetcode.com/u/monjurmbm404) |
+| Codeforces | [codeforces.com/profile/monjurmbm404](https://codeforces.com/profile/monjurmbm404) |
+| CodeChef | [codechef.com/users/monjurmbm404](https://www.codechef.com/users/monjurmbm404) |
+| VJudge | [vjudge.net/user/monjurmbm404](https://vjudge.net/user/monjurmbm404) |
+| Facebook | [facebook.com/monjurmbm404](https://www.facebook.com/monjurmbm404) |
+| X (Twitter) | [x.com/monjurmbm404](https://x.com/monjurmbm404) |
+| YouTube | [youtube.com/@monjurmbm404](https://youtube.com/@monjurmbm404) |
