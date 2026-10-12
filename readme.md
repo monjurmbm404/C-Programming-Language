@@ -136,4 +136,3 @@ If you found this repository helpful, please consider giving it a **⭐ Star**. 
 | Type | Email |
 |:---|:---|
 | Professional | [monjurmbm404@gmail.com](mailto:monjurmbm404@gmail.com) |
-| Personal | [md.monjurmbm2001@gmail.com](mailto:md.monjurmbm2001@gmail.com) |
